@@ -1,6 +1,6 @@
 # CODTECH-TASK-1-Customer-Segmentation-Analysis
 
-**Overview**
+**#Overview**
 This project involves analyzing customer data to segment them into distinct groups based on their purchasing behavior. The primary focus is on utilizing data analysis and clustering techniques to identify different customer segments.
 
 **Introduction**
