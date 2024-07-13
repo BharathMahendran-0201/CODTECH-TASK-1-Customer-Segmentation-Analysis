@@ -16,9 +16,13 @@ The dataset used in this project is a CSV file containing customer purchase hist
 
 The following Python libraries are required to run the notebooks:
 
-pandas
-numpy
-seaborn
-matplotlib
-sklearn
+1.pandas
+
+2.numpy
+
+3.seaborn
+
+4.matplotlib
+
+5.sklearn
 
